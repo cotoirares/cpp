@@ -1,9 +1,7 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
-
+int v[5005][5005];
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+
 }
